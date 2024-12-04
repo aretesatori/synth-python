@@ -1,6 +1,6 @@
-# Sintetizador Musical con Python
+# Sintetizador con Python
 
-Este repositorio contiene el un proyecto de sintetizador utilizando musical Python, desarrollado para la asignatura [**ACUS220-20**](https://github.com/vpobleteacustica/ACUS220-Acustica-Computacional-con-Python) ("Acústica Computacional con Python").
+Este repositorio contiene un proyecto de sintetizador musical utilizando Python, desarrollado para la asignatura [**ACUS220-20**](https://github.com/vpobleteacustica/ACUS220-Acustica-Computacional-con-Python) ("Acústica Computacional con Python").
 
 El proyecto ha sido desarrollado por el **Grupo ELECTROACUSTIC**, conformado por los integrantes:
 
@@ -9,7 +9,7 @@ El proyecto ha sido desarrollado por el **Grupo ELECTROACUSTIC**, conformado por
 * **Josías Pinilla**, estudiante de Ingeniería Civil Acústica.
 * **Areté Poffart**, estudiante de Ingeniería Civil Electrónica.
 
-Estudiantes de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile (UACh).
+Estudiantes de la [Facultad de Ciencias de la Ingeniería](https://ingenieria.uach.cl/) de la Universidad Austral de Chile (UACh).
 
 ## Desarrollo
 
