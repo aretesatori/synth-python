@@ -13,4 +13,6 @@ Estudiantes de la [Facultad de Ciencias de la Ingeniería](https://ingenieria.ua
 
 ## Desarrollo
 
-Para el desarrollo del sintetizador, inicialmente crearon 2 prototipos, uno de ellos con la biblioteca Pyo y el otro con las bibliotecas Tkinter y Sounddevice.
+<!-- Para el desarrollo del sintetizador, inicialmente crearon 2 prototipos, uno de ellos con la biblioteca Pyo y el otro con las bibliotecas Tkinter y Sounddevice. -->
+
+La versión actual está desarrollada utilizando las bibliotecas [Pyo](https://github.com/belangeo/pyo) y [Tkinter](https://docs.python.org/3/library/tkinter.html).
